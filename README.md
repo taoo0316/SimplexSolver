@@ -45,4 +45,4 @@ $ python simplex.py -A "[[2,1],[1,1]]" -b "[6,4]" -c "[3,2]" -p min
 
 [here]: <https://latexbase.com/>
 
-This works so well. You guys are geniuses, seriously.
+This works so well. You guys are geniuses, seriously. - Wentao
